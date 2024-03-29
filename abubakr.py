@@ -5,4 +5,4 @@ BLUE = "\033[0;34m"
 PURPLE = "\033[0;35m"
 
 
-# Akobir men seni faylining uzkartirdim neb abubakir
+# Akobir men seni faylining uzkartirdim men Abubakir
